@@ -8,7 +8,7 @@ LogicDM is a free Windows download manager from LogicDev. This repository provid
 - [Official website — logicdev.id](https://logicdev.id/product/logicdm)
 - Windows 10/11, 64-bit
 
-Open a release and download **LogicDM-Setup-1.2.5.exe**. Each release describes changes from the previous version under Added, Improved and Fixed. The application also provides offline release history in **About → What’s new**.
+Open a release and download **LogicDM-Setup-1.2.6.exe**. Each release describes changes from the previous version under Added, Improved and Fixed. The application also provides offline release history in **About → What’s new**.
 
 ## Application source remains private
 
@@ -23,4 +23,4 @@ The installer includes third-party software with its own licenses. License notic
 
 After upgrading, reload the existing LogicDM browser extension. Restricted videos may require an authorized account.
 
-LogicDM uses FFmpeg 8.1.2 under LGPL 2.1. [Component sources and build instructions](https://github.com/logicdevapp/LogicDM-Releases/releases/download/v1.2.5/LogicDM-ThirdParty-Sources-1.2.5.zip) accompany [LogicDM v1.2.5](https://github.com/logicdevapp/LogicDM-Releases/releases/tag/v1.2.5).
+LogicDM uses FFmpeg 8.1.2 under LGPL 2.1. [Component sources and build instructions](https://github.com/logicdevapp/LogicDM-Releases/releases/download/v1.2.5/LogicDM-ThirdParty-Sources-1.2.5.zip) accompany [LogicDM v1.2.5](https://github.com/logicdevapp/LogicDM-Releases/releases/tag/v1.2.6).
