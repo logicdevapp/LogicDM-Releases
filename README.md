@@ -23,4 +23,6 @@ The installer includes third-party software with its own licenses. License notic
 
 After upgrading, reload the existing LogicDM browser extension. Restricted videos may require an authorized account.
 
-LogicDM uses FFmpeg 8.1.2 under LGPL 2.1. [Component sources and build instructions](https://github.com/logicdevapp/LogicDM-Releases/releases/download/v1.2.5/LogicDM-ThirdParty-Sources-1.2.5.zip) accompany [LogicDM v1.2.5](https://github.com/logicdevapp/LogicDM-Releases/releases/tag/v1.2.6).
+LogicDM uses FFmpeg 8.1.2 under LGPL 2.1. [Component sources and build instructions](https://github.com/logicdevapp/LogicDM-Releases/releases/download/v1.2.5/LogicDM-ThirdParty-Sources-1.2.5.zip) accompany [LogicDM v1.2.6](https://github.com/logicdevapp/LogicDM-Releases/releases/tag/v1.2.6).
+
+The current release remains **1.2.6**. Corrected builds use distinct Build IDs; no 1.2.7 release is published. Download the canonical installer filename above. Assets marked `.previous-` are historical recovery copies.
